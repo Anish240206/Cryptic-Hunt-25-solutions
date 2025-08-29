@@ -20,7 +20,9 @@ ACM-VIT's Hybrid Cryptic Hunt is an elaborate treasure hunt where our participan
 Examine the solutions to questions of varying difficulty levels in the following folders:
 * Easy
 * Medium
+* Medium Sequential
 * Hard
+* Hard Sequential
 
 ---
 
